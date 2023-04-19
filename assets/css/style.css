@@ -1,0 +1,126 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar{
+    padding: 10px;
+    font-weight: 700;
+}
+.nav-item{
+    margin-right: 20px;
+}
+.nav-link{
+    font-size: 20px;
+}
+.navbar-brand{
+    font-size: 30px;
+}
+.w-100{
+    height: 650px;
+    margin-top: 75px;
+}
+.about{
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+.about img{
+    width: 100%;
+}
+
+.container{
+    margin-top: 30px;
+}
+h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+}
+.card-img-top{
+    margin-left: 120px;
+    height: 300px;
+    width: 250px;
+
+}
+.card-text{
+    font-size: 25px;
+    text-align:center;
+    font-weight: 800;
+}
+.card-title{
+    font-size: 25px;
+    text-align:center;
+    font-weight: 800;
+}
+.card{
+    background-color: transparent;
+    border: none;
+}
+.laptopimg{
+    margin-left: 60px;
+    width: 350px;
+}
+.footer{
+    background-image: url("../images/69.jpg");
+    padding: 20px;
+}
+.footer2{
+    background: linear-gradient(90deg, rgba(1,0,23,0.8884803921568627) 0%, rgba(14,0,88,0.8576680672268908) 55%, rgba(120,0,0,0.8856792717086834) 100%);
+    
+}
+.fa{
+    color: white;
+    font-size:24px ;
+    padding: 10px;
+}
+.contect{
+    list-style-type: none;
+}
+.contect li{
+    color: white;
+}
+.contect li a{
+    color: white;
+}
+/* .fa-map-marker{
+    margin-left: 5px;
+} */
+.add{
+    margin-left: 10px;
+}
+.footer3{
+    padding-top: 20px;
+}
+.social{
+    text-decoration: none;
+}
+.social li{
+    display: inline;
+}
+.social li .fa{
+    font-size: 30px;
+}
+.links li a{
+    text-decoration: none;
+    color: white;
+}
+.links li{
+    list-style-type: none;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+}
+@media only screen and (max-width: 600px)
+{
+    .links li{
+        text-align: left;
+}
+}
+.copyrights{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    margin-top: 20px;
+}
